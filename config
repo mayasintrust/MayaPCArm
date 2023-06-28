@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaay4fkypicc2itwiipd7ybhgdgrzunjyyf4sleeffxxhrz3qd2jg2a
+fingerprint=f8:65:1c:c1:05:a5:d7:ba:b7:45:49:d0:18:34:df:11
+tenancy=ocid1.tenancy.oc1..aaaaaaaazvk526dpm6fr277l7beuihasm2dfanqfl5fuy6rgo7lrq7sznzca
+region=ap-hyderabad-1
+key_file=oci_private_key.pem
